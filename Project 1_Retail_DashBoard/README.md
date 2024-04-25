@@ -1,6 +1,9 @@
 Objective
 The primary objective of this project is to develop a dynamic and interactive dashboard that provides insights into the retail business's monthly performance metrics. Through this dashboard, we aim to empower business leaders and stakeholders with data-driven insights to make informed decisions.
 
+![image](https://github.com/tejashreeG17/DSM_PowerBi_Challenge/assets/120238929/0a0cfbdd-5a9f-4428-bb78-d86f28a12e51)
+
+
 Stakeholders
 Business Leaders: To gauge the business performance and strategize future plans based on the data-driven insights provided by the dashboard.
 Marketing Teams: To identify customer demographics and preferences, thereby tailoring marketing strategies effectively.
